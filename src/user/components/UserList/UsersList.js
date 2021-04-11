@@ -12,7 +12,7 @@ const UsersList = ({ users }) => {
   }
 
   return (
-    <ul>
+    <ul className='users-list'>
       {users.map((user) => (
         <UserItem
           key={user.id}
