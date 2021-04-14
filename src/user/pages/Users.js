@@ -6,32 +6,32 @@ const User = () => {
   const users = [
     {
       id: '1-anj-151-tk',
-      name: 'Aytac Guley',
+      name: 'Aytac Güley',
       places: 10,
       image: 'https://i.ibb.co/sqdtZ8s/User-Profile-PNG.png',
     },
     {
       id: '2-hjk-122-tr',
-      name: 'Aslı Guley',
+      name: 'Aslı Güley',
       places: 18,
       image: 'https://i.ibb.co/sqdtZ8s/User-Profile-PNG.png',
     },
     {
       id: '3-plu-132-kl',
-      name: 'Ziba Guley',
+      name: 'Ziba Güley',
       places: 25,
       image: 'https://i.ibb.co/sqdtZ8s/User-Profile-PNG.png',
     },
     {
       id: '4-ulk-120-jj',
-      name: 'Halil Guley',
+      name: 'Halil Güley',
       places: 12,
       image: 'https://i.ibb.co/sqdtZ8s/User-Profile-PNG.png',
     },
     {
       id: '5-plo-198-tt',
-      name: 'Fatma Guley',
-      places: 0,
+      name: 'Fatma Güley',
+      places: 12,
       image: 'https://i.ibb.co/sqdtZ8s/User-Profile-PNG.png',
     },
   ];
